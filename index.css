@@ -1,0 +1,27 @@
+.bg-container{
+    min-height: 100vh;
+    background-color: lightcoral;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    max-width: 200px;
+    text-align: center;
+}
+.paragrapg{
+    max-width: 300px;
+    text-align: center;
+}
+button{
+    padding: 20px;
+    border-radius: 20px;
+    margin-right:20px ;
+}
+.get-started{
+    background-color: blue;
+}
+.learn-more{
+    background-color: transparent;
+}
